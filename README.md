@@ -1,5 +1,18 @@
 # My Knowledge Base
 
+## Access to Data
+For your knowledge base to really shine, and to minimize the amount of work required on your end, you should grant access to the following platforms:
+- Email
+- Calendar
+
+## Example Messages to Your Knowledge Base
+If you want, your knowledge base can gradually learn about you and your background over time. Alternatively, you could tell your knowledge base to ask you questions that will help it better understand your life up to this point. This is the suggested approach in order optimize and expedate its utility. 
+
+- Here's a picture [or link to] of an article in the newspaper I just read
+- I just got back from a 3 mile run, and I feel great
+- I forget if I already told you, but my roomate's name is Renee. We met when I worked at Joe's restaurant in college for a few summers.
+- My parents are going to Cape Cod this weekend so I'm watching their dog, Rosie. Rosie is best friends with my dog Emmy
+
 ## Use Cases
 
 ### Context-aware Recommendations
