@@ -1,12 +1,26 @@
 # My Knowledge Base
 
+*Note: This is an on-going project. If you have any questions, thoughts, or suggestions, feel free to reach out: melissa.ann.mullen@gmail.com.*
+
+The human brain can only hold so much information, and can only synthesize so much data. One of humanity’s greatest leaps forward was the development of writing, because it allowed people to document information externally and reference it later. I hope to build an application that pushes this idea further.
+
+My goal is to build an application connected to an LLM which acts as a repository for everything I know, or have known. The utility of this kind of technology extends beyond just memory assisstance. Such an app would allow for introspection (observing how our beliefs and values have changed over time and conversing about what may have caused these changes). It would allow those who struggle with communication to express their point of view clearly and with the intended audience in mind.
+
+I only wish I'd had this idea sooner, so that I could remember the details of all my college courses. 
+
+Below are some considerations and potential use-cases.
+
 ## Access to Data
-For your knowledge base to really shine, and to minimize the amount of work required on your end, you should grant access to the following platforms:
+For the knowledge base to really shine, users should grant access to the following:
+
+- Texts
 - Email
 - Calendar
 
+Given the extreme sensitivity of that data, on top of all the intimate details the app will collect about the lives of users, security and privacy considerations will be paramount during development. 
+
 ## Example Messages to Your Knowledge Base
-If you want, your knowledge base can gradually learn about you and your background over time. Alternatively, you could tell your knowledge base to ask you questions that will help it better understand your life up to this point. This is the suggested approach in order optimize and expedate its utility. 
+The user can add background data to their knowledge base, filling it in on their past, the people in their lives, their job, etc., at a rate they feel comfortable with. The app could gradually learn about them over time. Alternatively, the user could ask the app to ask questions that will help it better understand the user's life up to this point. This is the suggested approach in order optimize and expedate its utility. Here are some examples of messages one might send to the bot.
 
 - Here's a picture [or link to] of an article in the newspaper I just read
 - I just got back from a 3 mile run, and I feel great
@@ -14,6 +28,8 @@ If you want, your knowledge base can gradually learn about you and your backgrou
 - My parents are going to Cape Cod this weekend so I'm watching their dog, Rosie. Rosie is best friends with my dog Emmy
 
 ## Use Cases
+
+If the user sends messages (like the examples above) consistantly, that's when the interesting use cases start to arrise.
 
 ### Context-aware Recommendations
 - Create a spreadsheet with links to the perfect Christmas gifts for my immediate family and close friends. Provide 3 options for each: `Budget`, `Reasonable`, `Splurge`
