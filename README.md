@@ -2,6 +2,16 @@
 
 *Note: This is an on-going project. If you have any questions, thoughts, or suggestions, feel free to reach out: melissa.ann.mullen@gmail.com.*
 
+- [Project Overview](#project-overview)
+- [Access to Data](#access-to-data)
+- [Example Messages to the Knowledge Base](#example-messages-to-the-knowledge-base)
+- [Use Cases](#use-cases)
+  - [Context-aware Recommendations](#context-aware-recommendations)
+  - [Introspection](#introspection)
+  - [Memory](#memory)
+
+## Project Overview
+
 The human brain can only hold so much information, and can only synthesize so much data. One of humanity’s greatest leaps forward was the development of writing, because it allowed people to document information externally and reference it later. I hope to build an application that pushes this idea further.
 
 My goal is to build an application connected to an LLM which acts as a repository for everything I know, or have known. The utility of this kind of technology extends beyond just memory assisstance. Such an app would allow for introspection (observing how our beliefs and values have changed over time and conversing about what may have caused these changes). It would allow those who struggle with communication to express their point of view clearly and with the intended audience in mind.
@@ -19,7 +29,7 @@ For the knowledge base to really shine, users should grant access to the followi
 
 Given the extreme sensitivity of that data, on top of all the intimate details the app will collect about the lives of users, security and privacy considerations will be paramount during development. 
 
-## Example Messages to Your Knowledge Base
+## Example Messages to the Knowledge Base
 The user can add background data to their knowledge base, filling it in on their past, the people in their lives, their job, etc., at a rate they feel comfortable with. The app could gradually learn about them over time. Alternatively, the user could ask the app to ask questions that will help it better understand the user's life up to this point. This is the suggested approach in order optimize and expedate its utility. Here are some examples of messages one might send to the bot.
 
 - Here's a picture [or link to] of an article in the newspaper I just read
